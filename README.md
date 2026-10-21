@@ -44,7 +44,7 @@
 
 ## Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/vansh-kumar
+- **LinkedIn:** linkedin.com/in/vansh-kumar
 - **GitHub:** https://github.com/vansh-analytics180
 - **Email:** katariyavansh180@gmail.com
 
