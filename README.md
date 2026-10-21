@@ -6,7 +6,7 @@
 
 *Turning raw data into meaningful business insights.*
 
-[LinkedIn](https://www.linkedin.com/in/vansh-kumar) · [GitHub](https://github.com/vansh-analytics180)
+[LinkedIn](https://www.linkedin.com/in/vansh-kumar-65908a3a5/) · [GitHub](https://github.com/vansh-analytics180)
 
 </div>
 
