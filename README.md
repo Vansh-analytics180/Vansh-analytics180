@@ -1,63 +1,60 @@
-# 👋 Hi, I'm Vansh Kumar  
-### 📊 Data Scientist | Data Analyst  
+<div align="center">
 
-I am a passionate **Data Scientist and Data Analyst** who enjoys working with data to find insights and support better decision-making.  
-I work mainly with **Python, SQL, Excel, and Power BI**.
+# Hi, I'm Vansh Kumar 👋
 
----
+### Aspiring Data Analyst | Excel · SQL · Power BI · Python
 
-## 👨‍💻 About Me
-- 🔍 Interested in data analysis, machine learning, and statistics  
-- 📈 Experience in data cleaning, analysis, and visualization  
-- 🧠 Love solving real-world business problems using data  
-- 🚀 Continuously learning and improving my skills  
+*Turning raw data into meaningful business insights.*
+
+[LinkedIn](https://www.linkedin.com/in/vansh-kumar) · [GitHub](https://github.com/vansh-analytics180)
+
+</div>
 
 ---
 
+## About Me
+
+- 📊 Aspiring Data Analyst interested in data cleaning, analysis, visualization, and business insights.
+- 🧰 Work with **Excel, SQL, Power BI, and Python** to explore data and communicate findings.
+- 📈 Interested in identifying trends, tracking KPIs, and supporting data-driven decisions.
+- 🎓 Advanced Executive Certification in Data Science with AI Specialization — AnalytixLabs.
+
+## Technical Skills
+
+| Area | Tools and Skills |
+|---|---|
+| SQL & Databases | SQL, SQL Server, SSMS, Joins, CTEs, Window Functions, Subqueries, Aggregate Functions |
+| BI & Visualization | Power BI, DAX, Data Modeling, Interactive Dashboards, KPI Reporting |
+| Spreadsheets | Excel, Data Cleaning, Pivot Tables, Lookup Functions, Charts |
+| Python | Pandas, NumPy, Matplotlib, Seaborn |
+| Analytics | Data Transformation, Exploratory Data Analysis (EDA), Power Query, ETL, Business Insights |
+| Tools | Jupyter Notebook, Microsoft Excel, Power BI, SQL Server Management Studio |
 
 
-### 🔹 Skill Proficiency
-- **Python** ██████████████ 90%  
-- **SQL** ████████████ 85%  
-- **Excel** ████████████ 85%  
-- **Power BI** ███████████ 80%  
-- **Machine Learning** █████████ 
+## Education
 
-## 💻 Tech Stack
+- **AnalytixLabs** — Advanced Executive Certification in Data Science with AI Specialization  
+  *May 2025 – August 2026*
+- **B.A. (Hons.) Political Science** — School of Open Learning, University of Delhi  
+  *July 2023 – March 2026*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+## Certification
 
----
+- **Data Visualization & Analytics** — FutureSkills Prime / NASSCOM, August 2025
 
-## 📂 Projects
-- Sales & Business Analysis Dashboard (Power BI)  
-- Customer Churn Analysis (SQL + Power BI)  
-- Retail / Hypermarket Data Analysis (Python)  
-- Machine Learning Practice Projects  
+## Connect With Me
 
----
-
-## 📚 Currently Learning
-- Advanced Python for Data Analysis  
-- Machine Learning Algorithms  
-- Real-world Case Studies  
-
----
-
-## 🤝 Connect With Me
-- 📧 Email: katariyavansh180@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/vansh-kumar-65908a3a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- **LinkedIn:** https://www.linkedin.com/in/vansh-kumar
+- **GitHub:** https://github.com/vansh-analytics180
+- **Email:** katariyavansh180@gmail.com
 
 ---
 
+<div align="center">
 
-⭐ Thank you for visiting my profile!
+*Always learning, analyzing, and improving.*
+
+</div>
 
 
 
